@@ -21,29 +21,48 @@
 
 ## 🧩 Featured Projects
 
-- **PlanMate AI** - AI-Powered Learning Plan Generator (Tuwaiq x Groq)  
+- **PlanMate AI**  AI-Powered Learning Plan Generator (Tuwaiq x Groq)  
   Groq Llama-3.1-8B + FastAPI. Generates JSON learning paths with time estimates and direct links. Responsive web UI.
 
-- **Sila** - Arabic Sign Language Recognition (Samsung Innovation Campus)  
+- **Sila**  Arabic Sign Language Recognition (Samsung Innovation Campus)  
   ~49k images / 32 classes. PyTorch CNN reached 97.4% test accuracy. FastAPI inference + lightweight web UI. Led data pipeline and coordinated a 6-member Agile team.
 
-- **HopeHub** - Charity Management Platform (Misk Backend Program)  
+- **HopeHub**  Charity Management Platform (Misk Backend Program)  
   Full-stack Flask + Supabase, JWT/RBAC, 8-table normalized schema, 15 REST APIs, admin dashboard with analytics and payment integration.
+
 
 ## 🛠️ Languages & Tools
 
 <div align="left">
 
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,pytorch,tensorflow,fastapi,flask,nodejs,postgres,supabase,git,github,vscode" height="40" alt="Stack Icons" />
+**Languages**:
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css" height="32" alt="Python, Java, JavaScript, HTML, CSS" />
 
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white" height="24" alt="scikit-learn" />
-<img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" height="24" alt="Pandas" />
-<img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" height="24" alt="NumPy" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?logo=plotly&logoColor=white" height="24" alt="Matplotlib" />
-<img src="https://img.shields.io/badge/Cursor-2B2E3A?logo=cursor&logoColor=white" height="24" alt="Cursor" />
-<img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white" height="24" alt="Jira" />
+**AI/ML**:
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" height="32" alt="PyTorch, TensorFlow" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white" height="20" alt="scikit-learn" />
+<img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" height="20" alt="Pandas" />
+<img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" height="20" alt="NumPy" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?logo=plotly&logoColor=white" height="20" alt="Matplotlib" />
+
+**Backend & APIs**:
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs" height="32" alt="FastAPI, Flask, Node.js" />
+<img src="https://img.shields.io/badge/REST-005571?logo=openapiinitiative&logoColor=white" height="20" alt="REST APIs" />
+
+**Databases**:
+<img src="https://skillicons.dev/icons?i=postgres,supabase" height="32" alt="PostgreSQL, Supabase" />
+
+**Dev & Collaboration**:
+<img src="https://skillicons.dev/icons?i=git,github,vscode" height="32" alt="Git, GitHub, VS Code" />
+<img src="https://img.shields.io/badge/Cursor-2B2E3A?logo=cursor&logoColor=white" height="20" alt="Cursor" />
+<img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white" height="20" alt="Jira" />
+
+**Cloud/AI Infra**:
+<img src="https://img.shields.io/badge/Groq-121212?logo=groq&logoColor=E60000" height="20" alt="Groq" />
 
 </div>
+
+---
 
 ## 📫 Contact
 
