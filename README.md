@@ -4,7 +4,7 @@
 
 <h1>Hi, I'm Saud Bin Samhan 👋</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=AI+%2B+Backend+Developer;Prompt+Engineering;Building+Smart+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=AI+%2B+Backend+Developer;Prompt+Engineer;Building+Smart+Solutions" alt="Typing SVG" />
 
 </div>
 
